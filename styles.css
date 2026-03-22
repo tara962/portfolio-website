@@ -172,6 +172,7 @@ nav .right a span {
 .projects-section .group .project-details {
     text-align: center;
     flex: 2;
+    text-colour: black;
 }
 
 .projects-section .group .project-details img {
@@ -180,6 +181,7 @@ nav .right a span {
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 10px;
+    text-colour: black;
 }
 
 .projects-section .break {
@@ -188,6 +190,7 @@ nav .right a span {
 
 .projects-section .group .project-details p {
     font-weight: 600;
+    text-colour: black;
 }
 /* LETS BOTTOM PART BE MUCH LIGHTER */
 .projects-section .group .project-details p:last-child {
@@ -196,7 +199,7 @@ nav .right a span {
 
 .projects-section .group .description {
     flex: 8;
-    padding: 50px; /* !!!! NOT SURE ABOUT THIS PADDING !!!! */
+    padding: 50px;
 }
 
 /* SECTION 4: Contact */
